@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="custom-bar" style="height:{{navHeight}}px">
+  <view class="custom-bar__wrapper" style="margin-top:{{searchMarginTop}}px; height: {{searchHeight}}px;width: {{searchWidth}}px" >
+    <view class="search-group">
+    <image src="../../static/images/search.png" mode="aspectFit" />
+      <input class="search-group__input" auto-focus placeholder="输入点什么吧"/>
+    </view>
+  </view>
+</view>
