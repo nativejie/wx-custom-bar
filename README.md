@@ -104,7 +104,7 @@ view {
   margin-right: 20rpx
 }
 ```
-最终实现效果（返回按钮因为懒得找图标就没加上去 - -)  ------ [代码地址](https://github.com/nativejie/wx-custom-bar)
+最终实现效果（返回按钮因为懒得找图标就没加上去 - -) 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200511161253502.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ExMzY5NTA4NDY4,size_16,color_FFFFFF,t_70)
 
 
